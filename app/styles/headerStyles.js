@@ -12,6 +12,12 @@ export function searchBoxStyles(theme) {
     root: {
       margin: '0 10px',
       padding: 0
+    },
+    searchBoxLabel: {
+      color: '#fff'
+    },
+    searchBoxInput: {
+      borderColor: '#fff'
     }
   }
 }
